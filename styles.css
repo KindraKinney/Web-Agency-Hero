@@ -1,4 +1,21 @@
 body {
+    
     font-family: 'Open Sans', sans-serif;
     color: #020202;
+}
+
+#hero { 
+    background-image: url("img/faded-office.png");
+    background-size: cover;
+    height: 100vh;
+}
+#underline { 
+    text-decoration: underline;
+    text-decoration-color: #0ea5e9;
+}
+
+.btn {
+    background-color: #0ea5e9;
+    text-align: center;
+    color: white;
 }
